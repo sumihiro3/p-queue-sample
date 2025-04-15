@@ -12,7 +12,7 @@ TypeScriptで実装されたp-queueライブラリの使用例です。このプ
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/yourusername/p-queue-sample.git
+git clone https://github.com/sumihiro3/p-queue-sample.git
 cd p-queue-sample
 
 # 依存関係のインストール
